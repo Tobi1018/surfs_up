@@ -3,6 +3,8 @@
 ## Overview of the statistical analysis:
 
 ## Summary Statistics for June
+Using Python, Pandas functions and methods, and SQLAlchemy, filtered the date column of the Measurements table in Hawaii. SQLite database to retrieve all the temperatures for the month of June.  Then converted those temperatures to a list, created a DataFrame from the list, and generate the summary statistics. 
+
 ![Capture](https://user-images.githubusercontent.com/58860105/137639413-ec562c43-5bfe-4f92-b7ba-68af770fe218.PNG)
 
 
