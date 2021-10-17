@@ -1,6 +1,7 @@
 # Surfs_up
 
 ## Overview of the statistical analysis:
+Before investing money into building a Surf and Ice Cream shop in Oahu, Hawaii, an investor (W.Avy) wants to learn more about the weather. The investor is concerned about the frequent closings caused by precipitation. Querying the SQLite database with SQLAlchemy allowed us to analyze the Hawaiian weather data. In order to determine if the surf and ice cream shop business is sustainable year-round, the investor requests temperature data for the months of June and December on Oahu.
 
 
 ## Summary Statistics for June
