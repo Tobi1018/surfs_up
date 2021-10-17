@@ -23,4 +23,4 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filtered the date co
 
 
 # Summary
-Although our data tells us what our temperatures are, it also shows that we can run additional queries that can help us decide whether customers can visit the shop since weather also includes certain attributes such as precipitation. The more data we collect about the area, the more likely we are to make educated decisions.
+Although our data tells us what our temperatures are, it also shows that we can run more queries that can help us decide whether customers can visit the shop since weather also includes certain attributes such as precipitation. The more data we collect about the area, the more likely we are to make educated decisions.
